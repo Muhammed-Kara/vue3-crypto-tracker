@@ -1,3 +1,12 @@
+TR:Bu çalışma, küresel kripto para piyasasını anlık olarak izlemek, piyasa trendlerini analiz etmek ve dinamik verileri kullanıcı dostu bir arayüzle sunmak amacıyla geliştirilmiş modern bir web uygulamasıdır. Proje, veri yoğunluğu yüksek olan finansal platformlarda kullanıcı deneyimini en üst düzeyde tutmayı hedeflerken, minimalist ve kurumsal tasarım çizgilerinden ödün vermeden kurgulanmıştır.
+
+Uygulama, piyasa değerine (Market Cap) göre sıralanmış en popüler ilk 50 kripto para biriminin verilerini merkezi bir API üzerinden asenkron olarak çeker. Listelenen her bir varlık için anlık fiyat, son 24 saatlik yüzde bazında fiyat değişimi ve toplam piyasa değeri gibi kritik finansal metrikleri gerçek zamanlıya yakın bir performansla son kullanıcıya sunar.
+
+
+EN:This development is a modern web application designed to monitor the global cryptocurrency market in real time, analyze market trends, and present dynamic financial data through a user-friendly interface. The project aims to maximize user experience on data-intensive financial platforms while maintaining a minimalist and corporate design style.
+
+The application asynchronously fetches real-time data from a centralized API for the top 50 cryptocurrencies ranked by market capitalization. For each listed asset, it delivers critical financial metrics—such as live price, 24-hour percentage price fluctuations, and total market capitalization—with near-instantaneous rendering performance.
+
 # vue3-crypto-tracker
 
 This template should help get you started developing with Vue 3 in Vite.
