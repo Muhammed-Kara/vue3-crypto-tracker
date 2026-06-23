@@ -67,3 +67,8 @@ npm run test:e2e -- --debug
 ```sh
 npm run lint
 ```
+
+![Proje Görseli](https://github.com/Muhammed-Kara/vue3-crypto-tracker/blob/main/2.2.png?raw=true)
+
+
+![Proje Görseli](https://github.com/Muhammed-Kara/vue3-crypto-tracker/blob/main/1.3.png?raw=true)
